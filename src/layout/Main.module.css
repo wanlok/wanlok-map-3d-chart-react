@@ -1,0 +1,12 @@
+.root {
+    height: 100vh;
+}
+
+.top,
+.left {
+    background-color: #eeeeee;
+}
+
+.content {
+    overflow-y: auto;
+}
